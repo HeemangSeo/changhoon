@@ -1,6 +1,6 @@
 레포 구조 :  
 AIFFEL_quest_rs  
-[!
+'''
 ├── MainQuest  
 │  &nbsp;&nbsp;&nbsp;   ├── Quest01  
 │  &nbsp;&nbsp;&nbsp;   │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Quest01.ipynb  
@@ -42,9 +42,6 @@ AIFFEL_quest_rs
 │ &nbsp;&nbsp;&nbsp;    ├── Exploration08  
 │ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; ├── Exploration08.ipynb  
 │ &nbsp;&nbsp;&nbsp;    │  &nbsp;&nbsp;&nbsp;&nbsp; └── README.md  
-│ &nbsp;&nbsp;&nbsp;    └── Exploration09  
-│ &nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp; ├── Exploration09.ipynb  
-│ &nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp; └── README.md  
 └── GoingDeeper  
 &nbsp;&nbsp;&nbsp;	  ├── CAM  
 &nbsp;&nbsp;&nbsp;	  │  &nbsp;&nbsp;&nbsp;&nbsp; ├── CAM.ipynb  
@@ -73,6 +70,6 @@ AIFFEL_quest_rs
 &nbsp;&nbsp;&nbsp;	  └── KoChatgpt  
 &nbsp;&nbsp;&nbsp;	  &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;  ├── BERT.ipynb  
 &nbsp;&nbsp;&nbsp;	  &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;  └── README.md  
-]
+'''
 		
 
